@@ -1,0 +1,9 @@
+user
+msfadmin
+admin
+root
+Dio
+Test
+DioTest
+Opentest
+Bicicleta
